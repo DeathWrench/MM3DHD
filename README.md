@@ -1,16 +1,6 @@
 # MM3DHD
 #### HD Majora's Mask 3D Textures
 Download releasese [here](https://github.com/DeathWrench/MM3DHD/releases/)
-# Contributors:
-* Anutim
-* Bl4zerp
-* DeathWrench
-* Linkz
-* Nerrel 
-* Orange
-* Pizza
-* Skilar
-
 
 # Setup
 * Download and install the Citra PR build with custom texture support by khang06 from here:
@@ -28,3 +18,14 @@ EUR = 0004000000125***6***00
 
 #### Information
 There's a few textures that have different small edits to them, I am merging these changes and making variations of them. Splitting them up by folders, as people may like one style over the other.
+
+# Contributors:
+* Anutim
+* Bl4zerp
+* DeathWrench
+* Linkz
+* Nerrel 
+* Orange
+* Pizza
+* Skilar
+
