@@ -15,6 +15,7 @@ USA = 0004000000125***5***00
 EUR = 0004000000125***6***00
 * Place the textures from the .zip into this folder.
 * Go into graphics options in Citra and make sure you have Use Custom Textures enabled. 
+* Done
 
 #### Information
 There's a few textures that have different small edits to them, I am merging these changes and making variations of them. Splitting them up by folders, as people may like one style over the other.
