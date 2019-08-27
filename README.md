@@ -1,6 +1,6 @@
 # MM3DHD
 #### HD Majora's Mask 3D Textures
-
+Download releasese [here](https://github.com/DeathWrench/MM3DHD/releases/)
 # Contributors:
 * Anutim
 * Bl4zerp
