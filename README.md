@@ -27,4 +27,4 @@ EUR = 0004000000125***6***00
 * Go into graphics options in Citra and make sure you have Use Custom Textures enabled. 
 
 #### Information
-There's a few textures that have different small edits to them, I am merging these changes and making variations of them. People may like one style over the other.
+There's a few textures that have different small edits to them, I am merging these changes and making variations of them. Splitting them up by folders. People may like one style over the other.
