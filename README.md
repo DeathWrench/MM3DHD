@@ -7,7 +7,7 @@ Download releasese [here](https://github.com/DeathWrench/MM3DHD/releases/)
 #### https://ci.appveyor.com/api/buildjobs/j53hpvmruwsl5jbf/artifacts/citra-windows-msvc-20190810-dacc1239.7z
 * It is best to make a folder called **user** inside the directory where the **citra-qt.exe** is located, and then run it once.  
 #### 
-That way the config files and what not get installed to the same folder as Citra and not in your Documents or AppData folder. (I forget which folder they go to by default specifically specifically)
+That way the config files and what not get installed to the same folder as Citra and not in your Documents or AppData folder. (I forget which folder they go to by default specifically)
 * After running it once inside the directory >user>load>textures>0004000000125***X***00
 ####
 USA = 0004000000125***5***00
