@@ -38,4 +38,4 @@ There's a few textures that have different small edits to them, I am merging the
 * Nerrel 
 * Orange
 * Pizza
-* Skilar
+* Skilar'sArt
