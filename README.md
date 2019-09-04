@@ -1,9 +1,9 @@
 # MM3DHD
 HD Majora's Mask 3D Textures
 
-Download releasese [here](https://github.com/DeathWrench/MM3DHD/releases/)
+## Download releasese [here](https://github.com/DeathWrench/MM3DHD/releases/)
 
-Related discord servers:
+## Related discord servers:
 * [Nerrel 3D](https://discord.gg/YgspcmS)
 * [Nerrel](https://discord.gg/BBre2vJ)
 
