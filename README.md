@@ -8,8 +8,8 @@ Majora's Mask 3D HD textures
 * [Nerrel](https://discord.gg/BBre2vJ)
 __________________________________________________________________________________________________________________________________
 ### Differences between Citra builds.
-* The khang06 PR build does not abide by **power of 2** rule which means textures can be any resolution.
 * In the Citra Canary build follows the **power of 2 rule** which means you can only use textures that are 2x, 4x, 8x and 16x.
+* The khang06 PR build does not abide by **power of 2** rule which means textures can be any resolution. This build is outdated though.
 
 # Setup
 * Download and install the Citra Canary build from Citra's website here:
