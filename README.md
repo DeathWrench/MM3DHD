@@ -2,6 +2,8 @@
 #### HD Majora's Mask 3D Textures
 Download releasese [here](https://github.com/DeathWrench/MM3DHD/releases/)
 
+Discord server with 3D textures: [Nerrel 3D](https://discord.gg/YgspcmS)
+Nerrel's discord server: [Nerrel](https://discord.gg/BBre2vJ)
 #### Differences between Citra builds.
 The khang06 PR build does not abide by **power of 2** rule which means textures can be any resolution. 
 #### 
@@ -30,7 +32,7 @@ EUR = 0004000000125***6***00
 #### Information
 There's a few textures that have different small edits to them, I am merging these changes and making variations of them. Splitting them up by folders, as people may like one style over the other.
 
-# Contributors:
+# Contributors Nerrel Community
 * Anutim
 * Bl4zerp
 * DeathWrench
