@@ -3,7 +3,8 @@
 Download releasese [here](https://github.com/DeathWrench/MM3DHD/releases/)
 
 Discord server with 3D textures: [Nerrel 3D](https://discord.gg/YgspcmS)
-Nerrel's discord server: [Nerrel](https://discord.gg/BBre2vJ)
+####
+[Nerrel's discord server](https://discord.gg/BBre2vJ)
 #### Differences between Citra builds.
 The khang06 PR build does not abide by **power of 2** rule which means textures can be any resolution. 
 #### 
