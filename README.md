@@ -1,5 +1,5 @@
 # MM3DHD
-Majora's Mask 3D HD textures
+Majora's Mask 3D HD textures.
 
 ## Download releasese [here](https://github.com/DeathWrench/MM3DHD/releases/)
 
