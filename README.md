@@ -36,7 +36,7 @@ There's a few textures that have different small edits to them, I am merging the
 * DeathWrench
 * Linkz
 * MrWheyne
-* Nerrel 
+* Nerrel (obviously)
 * Orange
 * Pizza
 * Skilar'sArt
