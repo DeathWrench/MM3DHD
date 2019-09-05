@@ -30,7 +30,7 @@ That way the config files and what not get populated to the same folder as Citra
 #### Information
 There's a few textures that have different small edits to them, I am merging these changes and making variations of them. Splitting them up by folders, as people may like one style over the other. It's kind of unorganized at the moment. That will change in the future.
 
-# Contributors Nerrel Community
+# Nerrel Community Contributors
 * Anutim
 * Bl4zerp
 * DeathWrench
