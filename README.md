@@ -9,7 +9,7 @@ Majora's Mask 3D HD textures
 __________________________________________________________________________________________________________________________________
 ### Differences between Citra builds.
 * The Citra Canary build follows the **power of 2 rule** which means you can only use textures that are 2x, 4x, 8x and 16x. Canary also supports subfolders vs loose files, so things can be organized better.
-* The khang06 PR build does not abide by **power of 2** rule which means textures can be any resolution. This build is outdated though.
+* The khang06 PR build does not abide by **power of 2** rule which means textures can be any resolution. This build is outdated though. If you use this build you'll have to search for .png in the [Main] folder and copy them all to load>textures>0004000000125***X***00
 
 # Setup
 * Download and install the Citra Canary build from Citra's website [here](https://citra-emu.org/download/)
@@ -26,9 +26,9 @@ That way the config files and what not get populated to the same folder as Citra
 * Go into graphics options in Citra and make sure you have Use Custom Textures enabled. 
 * Done
 
-#### Information
-There's a few textures that have different small edits to them, I am merging these changes and making variations of them. Splitting them up by folders, as people may like one style over the other. It's kind of unorganized at the moment. That will change in the future.
-
+#### About [Variants]
+These are textures that have minor tweaks here and there, IE N64 Sun and Moon Icons vs the 3DS Sun and Moon Icons
+Anything with an x at the end has sub folders so you need to go into those folders and pick the ones in there that you want.
 # Nerrel Community Contributors
 * Anutim
 * Bl4zerp
