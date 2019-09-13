@@ -29,6 +29,7 @@ That way the config files and what not get populated to the same folder as Citra
 #### About [Variants]
 These are textures that have minor tweaks here and there, IE N64 Sun and Moon Icons vs the 3DS Sun and Moon Icons
 Anything with an x at the end has sub folders so you need to go into those folders and pick the ones in there that you want.
+
 # Nerrel Community Contributors
 * Anutim
 * Bl4zerp
