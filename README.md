@@ -40,3 +40,6 @@ Anything with an x at the end has sub folders so you need to go into those folde
 * Orange
 * Pizza
 * Skilar'sArt
+* LuftWaffle
+* Pankeko
+* Nivehk
